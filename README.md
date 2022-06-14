@@ -28,3 +28,6 @@ python app.py
 Go Ahead!!
 ## Author
 - [Chitrangada Sarkar](https://github.com/ChitrangadaSarkar)
+- [Pubali Biswas](https://github.com/PubaliBiswas)
+- [Aniket Kumar](https://github.com/Aniket-K-Sah)
+- [Rahul Banik](https://github.com/Rahulbanik)
